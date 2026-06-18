@@ -41,3 +41,6 @@ Security Implementation using RLS
 Business Intelligence Reporting
 
 Screenshots :
+https://github.com/MangeshM25/Insurance-Analytics-Dashboard/blob/main/Dashboard.png
+https://github.com/MangeshM25/Insurance-Analytics-Dashboard/blob/main/Client%20Extract.png
+https://github.com/MangeshM25/Insurance-Analytics-Dashboard/blob/main/Feedback.png
